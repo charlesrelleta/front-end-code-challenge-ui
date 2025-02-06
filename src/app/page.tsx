@@ -26,7 +26,6 @@ export default function Home() {
 
   const handleSubmit = async () => {
     const result = await provideInstructions(instructions);
-    console.log("result", result);
 
     if (!result?.isError) {
       setBillboards(result?.data?.billboards);

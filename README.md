@@ -29,6 +29,30 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+Other Notes
+
+Upon developing this project, these are the versions I used.
+
+```
+#NODE
+v18.20.3
+
+#NPM
+10.7.0
+
+#OS
+MacOS Sonoma 14.1.1
+
+#Browser
+Google Chrome 132.0.6834.110
+
+#Internet Speed
+300Mbps
+
+#VSCODE
+Version: 1.96.4
+```
+
 **How to Use the Drone Control App**
 
 ### **1. Overview**
